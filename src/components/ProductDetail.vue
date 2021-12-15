@@ -1,15 +1,12 @@
 <template>
   <div>
-      <h1>Movies</h1>
-      </div>
+    <h1>Product Detail</h1>
+  </div>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
-
 </style>
